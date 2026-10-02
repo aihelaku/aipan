@@ -1,2 +1,1 @@
-/chat/*    https://llm-chat-app-template.cfch.workers.dev/:splat       200
-/wst/*      https://text-to-image-template.cfch.workers.dev/:splat    200
+/*    https://llm-chat-app-template.cfch.workers.dev/:splat    200
